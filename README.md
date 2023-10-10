@@ -1,10 +1,6 @@
-# Certificate Repository
+# Certificates
 
-This repository serves as a storage space for my certifications from various organizations and institutions.
-
-## Certificates
-
-Feel free to click on the links bellow to view the respective certificates.
+This repository serves as a storage space for my certifications from various organizations and institutions. Feel free to click on the links bellow to view the respective certificates.
 
 ### Coderhouse
 
