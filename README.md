@@ -19,11 +19,11 @@ Feel free to click on the links bellow to view the respective certificates.
 
 ### HackerRank
 
-- [Go (Basic)](https://www.hackerrank.com/certificates/3ebc1f558f31)
-- [Go (Intermediate)](https://www.hackerrank.com/certificates/3ebc1f558f31)
-- [JavaScript (Basic)](https://www.hackerrank.com/certificates/2f62c9c0d8eb)
-- [JavaScript (Intermediate)](https://www.hackerrank.com/certificates/77f57994565e)
-- [Problem Solving (Basic)](https://www.hackerrank.com/certificates/3a3bb216f649)
+- [Go (Basic)](https://www.hackerrank.com/certificates/3ebc1f558f31), Oct 2023
+- [Go (Intermediate)](https://www.hackerrank.com/certificates/3ebc1f558f31), Oct 2023
+- [JavaScript (Basic)](https://www.hackerrank.com/certificates/2f62c9c0d8eb), Jun 2023
+- [JavaScript (Intermediate)](https://www.hackerrank.com/certificates/77f57994565e), Jun 2023
+- [Problem Solving (Basic)](https://www.hackerrank.com/certificates/3a3bb216f649), Jun 2023
 
 ### Meta
 
